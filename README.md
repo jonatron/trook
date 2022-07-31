@@ -33,6 +33,6 @@ Using with sdkman to use an old JDK, 8.0.302-open, because openjdk 11 is too new
     Win32: http://dl.google.com/android/adt/adt-bundle-windows-x86-20140702.zip
     Win64: http://dl.google.com/android/adt/adt-bundle-windows-x86_64-20140702.zip
 
-The android app code is mostly in this repo, as is the train.py script to proxy / parse the train departures.
+The android app code is mostly in this repo, as is the train.py script to proxy / parse the train departures, which is running on a raspberry pi.
 
 <img src="done.jpg" width="250" >
