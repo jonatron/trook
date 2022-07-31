@@ -11,7 +11,7 @@ So now that I don't have a back cover, it's definitely going to be static, no po
 It could be a train departure board, or a weather display.
 
 Unfortunately, the micro-USB connector charges the battery, it doesn't power the device.
-This can be fixed by connecting a random 5V power supply to the battery instead.
+This can be fixed by connecting a random 5V power supply to the battery connector instead.
 
 <img src="wire.jpg" width="250" >
 
