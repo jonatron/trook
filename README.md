@@ -1,6 +1,6 @@
-# Quick Hack: Reviving a 2013 Nook
+# Quick Hack: Reviving a 2013 Nook Simple Touch
 
-Apart from a sticky back cover, and a dead battery, my nook bought in 2013 for £29 works just fine.
+Apart from a sticky back cover, and a dead battery, my Nook Simple Touch bought in 2013 for £29 works just fine.
 
 First I tried alcohol to try to make the back cover less sticky. It didn't do anything. I tried acetone,
 because I had a bottle next to the alcohol, which went well.
